@@ -1,0 +1,525 @@
+*{
+	margin: 10;
+	height: 10;
+}
+
+.first{
+	background-image: url("C:/webDew/dz1/media/rec.png");
+	height: 300px;
+	width: 1600px;
+	left: 0px;
+	top: 0px;
+	border-radius: 0px;
+	color: rgba(113, 119, 132, 1);
+	align-items: center;
+	font-size: normal;
+}
+
+.one{
+	box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.25);
+	position: absolute;
+	width: 43px;
+	height: 34px;
+	left: 260px;
+	top: 41px;
+
+	font-family: Rammetto One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 34px;
+/* identical to box height */
+	color: #FFFFFF;
+	text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.two{
+	position: absolute;
+	width: 126px;
+	height: 26px;
+	left: 338px;
+	top: 45px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 26px;
+/* identical to box height */
+	color: #505050;
+}
+
+.three{
+	position: absolute;
+	width: 54px;
+	height: 27px;
+	left: 626px;
+	top: 44px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #717784;
+}
+
+.four{
+    position: absolute;
+	width: 81px;
+	height: 27px;
+	left: 738px;
+	top: 44px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #717784;
+}
+
+.five{
+	position: absolute;
+	width: 66px;
+	height: 27px;
+	left: 877px;
+	top: 44px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #717784;
+}
+
+.six{
+	/* Setting */
+	position: absolute;
+	width: 65px;
+	height: 27px;
+	left: 1001px;
+	top: 44px;
+
+	font-style: normal;
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #717784;
+}
+
+.seven{
+	/* Rectangle 4 */
+	position: absolute;
+	width: 234px;
+	height: 60px;
+	left: 1124px;
+	top: 31px;
+	background: #9B9BCA;
+	border-radius: 10px;
+/* Contact us */
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #FFFFFF;
+}
+
+.eight{
+	/* Your awesome Dream maker consultant */
+	position: absolute;
+	width: 548px;
+	height: 112px;
+	left: 245px;
+	top: 312px;
+	font-family: DM Serif Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 100%;
+/* or 56px */
+	color: #696A86;
+}
+
+.nine{
+	position: absolute;
+	width: 234px;
+	height: 60px;
+	left: 245px;
+	top: 565px;
+	background: #9B9BCA;
+	border-radius: 10px;
+/* Get started */
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #FFFFFF;
+}
+
+.text{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 40px;
+/* identical to box height, or 222% */
+/* Blcak green */
+	color: #626780;
+}
+
+.zro{
+	/* We provide great Service */
+	position: absolute;
+	width: 329px;
+	height: 39px;
+	left: 639px;
+	top: 832px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 39px;
+/* identical to box height */
+/* Blcak green */
+	color: #626780;
+}
+
+.mek{
+	/* The occupational traffic permit is one of the most important things in the company */
+	position: absolute;
+	width: 746px;
+	height: 40px;
+	left: 430px;
+	top: 883px;
+}
+
+.erku{
+	/* when carrying out freight transport. In fact, it is a */
+	position: absolute;
+	width: 439px;
+	height: 40px;
+	left: 584px;
+	top: 909px;
+}
+
+.irek{
+	/* prerequisite for doing business traffic at all. */
+	position: absolute;
+	width: 388px;
+	height: 40px;
+	left: 609px;
+	top: 935px;
+}
+
+.web1{
+	position: absolute;
+	width: 132px;
+	height: 40px;
+	left: 293px;
+	top: 1223px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 40px;
+/* identical to box height, or 182% */
+/* Blcak green */
+	color: #626780;
+}
+
+.web2{
+/* Health and study */
+	position: absolute;
+	width: 190px;
+	height: 40px;
+	left: 554px;
+	top: 1220px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 40px;
+/* identical to box height, or 182% */
+/* Blcak green */
+	color: #626780;
+}
+
+.web3{
+	/* Packaging */
+	position: absolute;
+	width: 119px;
+	height: 40px;
+	left: 887px;
+	top: 1223px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 40px;
+/* identical to box height, or 182% */
+/* Blcak green */
+	color: #626780;
+}
+
+.web4{
+	/* Content writing */
+	position: absolute;
+	width: 171px;
+	height: 40px;
+	left: 1149px;
+	top: 1223px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 40px;
+/* identical to box height, or 182% */
+
+/* Blcak green */
+color: #626780;
+}
+
+.content{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+/* or 125% */
+	text-align: center;
+/* Blcak green */
+	color: #626780;
+}
+
+.content1{
+	/* Here you can find all web design and all of yours designing meterials */
+	position: absolute;
+	width: 228px;
+	height: 60px;
+	left: 245px;
+	top: 1275px;
+}
+
+
+.content2{
+	/* Here you can find all your primary health your good health and education */
+	position: absolute;
+	width: 220px;
+	height: 60px;
+	left: 540px;
+	top: 1275px;
+}
+
+
+.content3{
+/* Consistency in packaging matter a lot. Give your attention match design elements */
+	position: absolute;
+	width: 254px;
+	height: 60px;
+	left: 819px;	
+	top: 1275px;
+}
+
+.content4{
+	/* It can be understood that your fonts, sizes, headings, sub-headings, and button */
+	position: absolute;
+	width: 252px;
+	height: 60px;
+	left: 1108px;
+	top: 1275px;
+}
+
+.new{
+/* Best Feature in the world */
+	position: absolute;
+	width: 322px;
+	height: 39px;
+	left: 672px;
+	top: 1497px;
+	
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 39px;
+/* identical to box height */
+/* Blcak green */
+	color: #626780;
+}
+
+.new1{
+	/* Here you get the best featured in the world and you can do the best thing when carrying out freight transport. In fact, it is a */
+	position: absolute;
+	width: 660px;
+	height: 60px;
+	left: 463px;
+	top: 1548px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 30px;
+/* or 167% */
+	text-align: center;
+/* Blcak green */
+	color: #626780;
+}
+
+.boximg{
+	position: absolute;
+	width: 339px;
+	height: 149px;
+	left: 399px;
+	top: 1830px;
+	border-radius: 10px;
+}
+
+.box h1{
+/* Rectangle 17 */
+/* Customer */
+	position: absolute;
+	width: 131px;
+	height: 26px;
+	left: 503px;
+	top: 2032px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 100%;
+/* identical to box height, or 26px */
+	color: #000000;
+}
+
+.box p{
+/* The occupational traffic permit is one things in the company How do you a commercial traffic permit for freight transport to your business? */
+	position: absolute;
+	width: 346px;
+	height: 120px;
+	left: 395px;
+	top: 2080px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 30px;
+/* or 167% */
+
+	text-align: center;
+
+/* Blcak green */
+
+	color: #626780;
+}
+.box button{
+	/* Refer anyone */
+	position: absolute;
+	width: 122px;
+	height: 27px;
+	left: 507px;
+	top: 2296px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #FFFFFF;
+/* Rectangle 5 */
+	position: absolute;
+	width: 234px;
+	height: 60px;
+	left: 451px;
+	top: 2279px;
+
+	background: #9595C9;
+	border-radius: 10px;
+}
+
+.box1img{
+	position: absolute;
+	width: 339px;
+	height: 149px;
+	left: 930px;
+	top: 1830px;
+	border-radius: 10px;
+}
+
+.box1 h1{
+/* Provider */
+	position: absolute;
+	width: 108px;
+	height: 26px;
+	left: 1045px;
+	top: 2032px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 100%;
+/* identical to box height, or 26px */
+	color: #000000;
+}
+
+.box1 p{
+/* The occupational traffic permit is one things in the company How do you a commercial traffic permit for freight transport to your business? */
+	position: absolute;
+	width: 346px;
+	height: 120px;
+	left: 926px;
+	top: 2080px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 30px;
+/* or 167% */
+	text-align: center;
+/* Blcak green */
+	color: #626780;
+}
+
+.box1 button{
+	/* Learn more */
+	position: absolute;
+	width: 104px;
+	height: 27px;
+	left: 1038px;
+	top: 2296px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+/* identical to box height */
+	color: #FFFFFF;
+/* Rectangle 5 */
+	position: absolute;
+	width: 234px;
+	height: 60px;
+	left: 982px;
+	top: 2279px;	
+	background: #F01F35;
+	border-radius: 10px;
+}
